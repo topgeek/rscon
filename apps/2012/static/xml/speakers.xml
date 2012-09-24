@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<speakers>
+	<speaker>
+	    <fullname>项亮</fullname>
+		<nickname></nickname>
+		<company></company>
+		<position></position>
+		<desc>项亮，Hulu的推荐系统设计和开发者，《推荐系统实践》作者，已经在图灵出版，即将发售。
+		</desc>
+		<avatar>xiangliang.jpg</avatar>
+		<speech>推荐系统实践 - 从入门到精通</speech>
+	</speaker>
+	
+	<speaker>
+	    <fullname>明洪涛</fullname>
+		<company>土豆网</company>
+		<position></position>
+		<desc>
+			明洪涛，中国科学技术大学硕士，2010年在土豆网从事推荐系统研发至今，主要负责土豆网个性化视频推荐系统算法。
+		</desc>
+		<avatar>minghongtao.jpg</avatar>
+		<speech>《个性化视频推荐系统的优化@土豆》</speech>
+	</speaker>
+	
+    <speaker>
+	    <fullname>空望</fullname>
+		<nickname></nickname>
+		<company>淘宝</company>
+		<position></position>
+		<desc>
+			空望（魏虎），淘宝推荐系统团队的带头大哥。
+		</desc>
+		<avatar>kongwang.jpeg</avatar>
+		<speech>《推荐系统@淘宝》</speech>
+	</speaker>
+	
+	<speaker>
+	    <fullname>沈丹</fullname>
+		<nickname></nickname>
+		<company>大众点评</company>
+		<position></position>
+		<desc>
+			沈丹博士，大众点评网算法负责人 
+		</desc>
+		<speech>《大众点评网的推荐系统经验分享》</speech>
+		<avatar>shendan.jpeg</avatar>
+	</speaker>
+</speakers>

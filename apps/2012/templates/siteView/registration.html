@@ -1,0 +1,26 @@
+{{extend "bootstrap_layout.html"}}
+
+{{block title}}<title>报名注册 - {{=settings.LAYOUT.TITLE}}</title>{{end}}
+
+{{block content}}
+<h1>报名注册</h1>
+
+<p><span class="bold">大会时间：</span>2012年5月27日 9:30-16:30</p>
+ 
+<p><span class="bold">大会地点：</span>上海杨浦区创智天地多功能厅</p>
+  
+<p><span class="bold">与会人数：</span>300人</p>
+ 
+<p><span class="bold">参会人员：</span>对推荐系统感兴趣的人。</p>
+ 
+<a class="btn large primary" href="http://resys.51qiangzuo.com/" target="_blank" onClick="recordOutboundLink(this, 'RegButton');">前往报名页面 &raquo;</a>
+<br /><br />
+
+<h2>报名后的门票和晚宴说明：</h2>
+<br />
+<ol>
+    <li>报名并成功后将收到邮件通知。在大会前还有会议通知。</li>
+    <li>会场有电子签到确认报名情况。</li>
+</ol>
+
+{{end}}
